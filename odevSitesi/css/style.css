@@ -1,0 +1,43 @@
+a{
+    margin-left: 8px;
+}
+.slider-design{
+    height: 600px;
+    padding-top: 50px;
+}
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+.hakkimiz-clas{
+background-color:#f2f2f2;
+}
+.ayrac{
+    border:none;
+    border-top:3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+} 
+.gri{
+    color:#576179;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.beyaz{
+    color:#576179;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+.ekipcard>img:hover{
+    opacity: 0.8;
+}
+.figure:hover{
+opacity: 0.8;
+}
+
+
